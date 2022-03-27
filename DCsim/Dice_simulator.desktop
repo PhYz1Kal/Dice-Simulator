@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Dice simulator
+Exec=python3 /home/pi/DCsim/DiceRoller.py
+Icon=/home/pi/DCsim/icon
+Type=Application
+Terminal=false
+StartupNotify=false
